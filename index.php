@@ -28,7 +28,7 @@
             <div id="header">
             	<div class="header">
                 	<div id="logo">
-                    	<a href="#">   TestThe Gurukulam </a>
+                    	<a href="#"> The Gurukulam </a>
                     </div>
                     <div id="nav">
                     	<?php include("menu.php");?>
